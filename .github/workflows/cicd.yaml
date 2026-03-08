@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: message
-        run: echo"Welcome to Github. This is from first job"
+        run: echo "Welcome Venkat. This is from GHA"
     
     
   
